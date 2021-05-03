@@ -6,7 +6,7 @@ Polynomial curve fitting is an example of regression. Here you will apply the co
 polynomial curve fitting. In regression, the objective is to learn a function that maps an input variablexto a
 continuous target variabley.
 For this part, you will be provided a personalised input file that contains data of the form (xi,yi) fori=
-1 ,...,100. The relationship betweenxandyis of the form:
+1 ,...,100. The relationship between x and y is of the form:
 
 ```
 y=w0 +w1*x+···+wM*(x^M)+e
